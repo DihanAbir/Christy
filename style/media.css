@@ -1,0 +1,22 @@
+@media (min-width: 576px) { 
+.review .col-12{
+	width: 100%;
+	margin: 0 auto;
+}
+
+ }
+
+@media (min-width: 768px) { 
+.fa-angle-left:before {
+    /* content: "\f104";
+    margin-left: 100px; */
+}
+
+
+
+
+ }
+
+@media (min-width: 992px) {  }
+
+@media (min-width: 1200px) {  }
